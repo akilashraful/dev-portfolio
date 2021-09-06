@@ -1,66 +1,73 @@
 body{
-    background-color: #101820;
-}
-
-.hst1{
-    margin-left: 70px;
-    width: 50%;
-    float: left;
-    color: white;
-    
-}
-
-.hsi1 img{
-    width: 40%;
-    margin-top: 70px;
-    float: left;
-}
-
-.button1{
-    color: white;
-    background-color: #F9004B;
-    padding: 10px;
-    padding-left: 50px;
-    padding-right: 50px;
-    border: 1px solid #F9004B;
-    border-radius: 5px;
     font-family: 'Poppins', sans-serif;
-    font-size: 18px;
-    font-weight: 400;
-}
+    margin: 0%;
 
-#proj1{
-    background-color: #101820 ;
-    border: 2px solid #F9004B;
-    color: #F9004B;
-    margin-left: 15px;
 }
 
 h1{
-    font-family: 'Poppins', sans-serif;
-    font-weight: 800;
     font-size: 105px;
     line-height: 100%;
-    color: #F9004B;
+
 }
 
 
 h2{
-    margin-top: -85px;
-    font-family: 'Bree Serif', serif;
-    font-size: 36px;
-}
-
-#brand{
-    color: #F9004B;
+    margin-top: -90px;
 }
 
 .subheader1{
-    font-family: 'Poppins', sans-serif;
-    font-size: 18px;
-    font-weight: 300;
-    width: 95%;
-    margin-bottom: 50px;
+    width: 105%;
 }
 
 
+.hst1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+
+.hst1 img{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.herosec{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+
+section{
+
+    height: 600px;
+}
+
+
+.button1{
+        color: white;
+        background-color: #F9004B;
+        padding: 10px;
+        padding-left: 50px;
+        padding-right: 50px;
+        border: 1px solid #F9004B;
+        border-radius: 5px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        margin-top: 15px;
+}
+
+
+#proj1{
+    background-color:transparent ;
+    border: 2px solid #F9004B;
+    color: #F9004B;
+    margin-left: 10px;
+    
+}
+
+.boombaam{
+    color: #F9004B;
+}
