@@ -11,7 +11,7 @@ h1{
 }
 
 
-h2{
+#nichename{
     margin-top: -90px;
 }
 
@@ -46,28 +46,121 @@ section{
 
 
 .button1{
-        color: white;
-        background-color: #F9004B;
-        padding: 10px;
-        padding-left: 50px;
-        padding-right: 50px;
-        border: 1px solid #F9004B;
-        border-radius: 5px;
-        font-family: 'Poppins', sans-serif;
-        font-size: 18px;
-        font-weight: 400;
-        margin-top: 15px;
+    color: white;
+    background-color: #F9004B;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 1px solid #F9004B;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 15px;
 }
 
 
 #proj1{
-    background-color:transparent ;
-    border: 2px solid #F9004B;
-    color: #F9004B;
-    margin-left: 10px;
-    
+background-color:transparent ;
+border: 2px solid #F9004B;
+color: #F9004B;
+margin-left: 10px;
+
 }
 
 .boombaam{
     color: #F9004B;
+}
+
+
+.hst1{
+
+}
+
+
+.secosec{
+    margin-top: 70px;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+
+
+.header2{
+    margin-top: 30%;
+    color:#F9004B ;
+}
+
+
+.joom{
+    color: #F9004B;
+    font-size: 36px;
+}
+
+#scdsec{
+}
+
+#dudu{
+    text-decoration: none;
+}
+
+
+#dudu:hover{
+    text-decoration: none;
+    background-color: transparent;
+    border: 2px solid #F9004B;
+    color: #F9004B;
+}
+
+
+#subh2{
+    width: 96%;
+}
+
+
+#Exp{
+    margin-top: 70px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+
+.expn{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.secname{
+    margin-left: 5%;
+    color: #F9004B;
+    font-size: 36px;
+
+}
+
+#juniordev{
+    border-left: 10px solid;
+   border-image: linear-gradient(180deg, #F21212 0%, rgba(190, 6, 139, 0.76) 100%);
+   border-image-slice: 1;
+   border-radius: 15px;
+    
+}
+
+#prodev{
+    border-left: 10px solid;
+   border-image: linear-gradient(180deg, #1114d3 0%, rgba(10, 231, 158, 0.76) 100%);
+   border-image-slice: 1;
+   border-radius: 15px;
+    
+}
+
+footer{
+    text-align: center;
+    padding: 40px;
+    background-color: #F9004B;
+    color: white;
 }
